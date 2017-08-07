@@ -1,0 +1,17 @@
+body{
+	background: url('http://cdn.wallpapersafari.com/86/49/QPK6Ih.jpg') no-repeat center fixed;
+}
+
+.jumbotron{
+	background-color: rgba(238,238,238,0.7);
+}
+
+.panel-primary .panel-heading{
+	background-image: none;
+	background-color: rgba(51,122,183,0.7);
+}
+
+.panel {
+	background-color: rgba(238,238,238,0.85);
+}
+
